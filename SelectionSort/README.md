@@ -1,5 +1,6 @@
 # SortAlgorithms
 Selection Sort'ta soldan sağa önce dizideki en küçük değer bulunur ve dizinin başına yazılır. Sonra geri kalan elemanlara da aynı işlem tekrarlanır ve dizi sıralanmış olur.
+Time Complexity: O(n^2) 
 
 arr[] = 64 25 12 22 11
 
